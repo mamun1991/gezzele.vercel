@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614.884" height="614.5" viewBox="0 0 614.884 614.5">
+  <defs>
+    <filter id="Rectangle_1518" x="171.884" y="72.5" width="443" height="542" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1527" x="155.784" y="266" width="125" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#3166c9" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_57" data-name="Group 57" transform="translate(-984.216 -1821)">
+    <rect id="Rectangle_1517" data-name="Rectangle 1517" width="434" height="504" rx="217" transform="translate(1079.6 1821)" fill="#3166c9" opacity="0.18"/>
+    <g transform="matrix(1, 0, 0, 1, 984.22, 1821)" filter="url(#Rectangle_1518)">
+      <rect id="Rectangle_1518-2" data-name="Rectangle 1518" width="332" height="431" rx="12" transform="translate(227.38 122)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1519" data-name="Rectangle 1519" width="275" height="41" rx="7" transform="translate(1240.1 2034.5)" fill="#d9e3f5" opacity="0.6"/>
+    <rect id="Rectangle_1524" data-name="Rectangle 1524" width="275" height="41" rx="7" transform="translate(1240 2292)" fill="#001948" opacity="0.46"/>
+    <rect id="Rectangle_1523" data-name="Rectangle 1523" width="275" height="41" rx="20.5" transform="translate(1240.1 1974)" fill="#3166c9"/>
+    <rect id="Rectangle_1520" data-name="Rectangle 1520" width="275" height="41" rx="7" transform="translate(1240.1 2096.5)" fill="#d9e3f5" opacity="0.6"/>
+    <rect id="Rectangle_1525" data-name="Rectangle 1525" width="275" height="15" rx="3" transform="translate(1240.1 2223)" fill="#d9e3f5" opacity="0.6"/>
+    <rect id="Rectangle_1528" data-name="Rectangle 1528" width="233" height="15" rx="7.5" transform="translate(1261 1987)" fill="#d9e3f5" opacity="0.47"/>
+    <rect id="Rectangle_1526" data-name="Rectangle 1526" width="275" height="15" rx="3" transform="translate(1240.1 2251)" fill="#d9e3f5" opacity="0.6"/>
+    <rect id="Rectangle_1521" data-name="Rectangle 1521" width="131" height="41" rx="7" transform="translate(1240.1 2162.5)" fill="#d9e3f5" opacity="0.6"/>
+    <rect id="Rectangle_1522" data-name="Rectangle 1522" width="131" height="41" rx="7" transform="translate(1379.1 2162.5)" fill="#d9e3f5" opacity="0.6"/>
+    <path id="Path_55" data-name="Path 55" d="M-600.128-3636s119.016-82.808,185.2,26.856" transform="translate(1587.128 5639.968)" fill="none" stroke="#3166c9" stroke-linecap="round" stroke-width="4"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="9.5" cy="9.5" r="9.5" transform="translate(1162.6 2021)" fill="#3166c9"/>
+    <text id="Create_Account" data-name="Create Account" transform="translate(1323 2317)" fill="#fff" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Create Account</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 984.22, 1821)" filter="url(#Rectangle_1527)">
+      <rect id="Rectangle_1527-2" data-name="Rectangle 1527" width="65" height="71" rx="7" transform="translate(185.78 291)" fill="#3166c9"/>
+    </g>
+    <g id="add-friend" transform="translate(1184 2129.088)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="8.385" cy="8.385" r="8.385" transform="translate(8.057 0.733)" fill="#fff"/>
+      <path id="Path_56" data-name="Path 56" d="M16.2,17A15.218,15.218,0,0,0,1,32.2,1.169,1.169,0,0,0,2.169,33.37H30.232A1.169,1.169,0,0,0,31.4,32.2,15.218,15.218,0,0,0,16.2,17Z" transform="translate(0 2.721)" fill="#fff"/>
+      <path id="Path_57" data-name="Path 57" d="M31.523,14.677H28.016V11.169a1.169,1.169,0,1,0-2.339,0v3.508H22.169a1.169,1.169,0,1,0,0,2.339h3.508v3.508a1.169,1.169,0,1,0,2.339,0V17.016h3.508a1.169,1.169,0,1,0,0-2.339Z" transform="translate(3.385 1.536)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
